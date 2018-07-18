@@ -1,12 +1,11 @@
 # Intro to HTML and CSS Workshop
-<<<<<<< HEAD
 
 Boilerplate and activities for Code Like A Girl's Intro to HTML &amp; CSS workshop. 
 
 Before the workshop, please:
 
 - Download the HTML/CSS Boilerplate
-  * Go to this link: 
+  * Go to this link: https://github.com/natasjja/intro-to-html-and-css 
   * Click the green "Clone or download" button
   * Select Download ZIP
   * Unzip it and work from inside this folder
