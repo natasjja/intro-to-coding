@@ -21,3 +21,6 @@ https://github.com/natasjja/intro-to-html-and-css/blob/master/exercise1.md
 
 <h4>Exercise 2</h4>
 https://github.com/natasjja/intro-to-html-and-css/blob/master/exercise2.md
+
+<h4>Bonus Exercise</h4>
+https://github.com/natasjja/intro-to-html-and-css/blob/master/exercise3.md
