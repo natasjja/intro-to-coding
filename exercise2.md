@@ -5,13 +5,19 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
 
 ### Steps
 
-1.  Wrap our content
+1. Link our CSS to our HTML file
+
+    * Open your index.html file
+    * Between the two `<head>` tags, add the link to your CSS Stylesheet:
+        `<link rel="stylesheet" type="text/css" href="css/styles.css">`
+
+2.  Wrap our content
 
     * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `<body>`.
     * This makes it easier for us to layout our elements
       https://www.w3schools.com/tags/tag_main.asp
 
-2.  Let's center our page with CSS
+3.  Let's center our page with CSS
 
     * In VS Code, open the file called `styles.css` which is inside the `/css` folder.
     * Let's add some new CSS rules to this file.
@@ -24,7 +30,7 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
     * Try different maximum widths (say 1200px, 500px, 100px), to see what happens to the layout.
       https://www.w3schools.com/css/css_max-width.asp
 
-3.  Try some more CSS
+4.  Try some more CSS
 
     * We'll change the color of our `<h1>` tag.
     * Pick a color from https://htmlcolorcodes.com/color-picker/ or https://www.w3schools.com/cssref/css_colors.asp
@@ -32,7 +38,7 @@ We're going to add some CSS to style the HTML we wrote for our home page, `index
     * Try changing the background color of the `<body>` to see what happens!
     * If you make it dark, you'll also want to change the text to be light so it shows up.
 
-4.  Have a play
+5.  Have a play
     * What else might you want to style?
     * Add custom fonts? (see notes below)
     * The color of your text in paragraph tags?

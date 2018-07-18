@@ -43,6 +43,12 @@ Note that all the website tags need to go inside the `<body>` tag
     * Note that we need to use a relative path to the image because these files aren't hosted online anywhere yet
       https://www.w3schools.com/html/html_filepaths.asp
 
+5. An extra to try
+
+    * Find the `<title>` tag. 
+    * Add a title and refresh your page - where does it appear?
+
+
 > HINT: As you add tags into your code, make sure you keep refreshing the page in Chrome to see your changes come through.
 
 ### Code reference
