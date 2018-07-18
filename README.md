@@ -1,4 +1,5 @@
 # Intro to HTML and CSS Workshop
+<<<<<<< HEAD
 
 Boilerplate and activities for Code Like A Girl's Intro to HTML &amp; CSS workshop. 
 
