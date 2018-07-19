@@ -12,6 +12,7 @@ Before the workshop, please:
 
 - Install VSCode: https://code.visualstudio.com/download
 - Download Google Chrome Browser: https://www.google.com/chrome/ 
+- Sign up for a free Netlify account: https://www.netlify.com/
 
 
 <h2>Exercises</h2>
