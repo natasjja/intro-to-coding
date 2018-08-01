@@ -5,9 +5,9 @@ Boilerplate and activities for Code Like A Girl's Intro to HTML &amp; CSS worksh
 Before the workshop, please:
 
 - Download the HTML/CSS Boilerplate
-  * Go to this link: https://github.com/natasjja/intro-to-html-and-css 
-  * Click the green "Clone or download" button
-  * Select Download ZIP
+  * Go to this link: https://www.light-html.com
+  * Click the "Download Boilerplate" button
+  * Select Downloaded ZIP
   * Unzip it and work from inside this folder
 
 - Install VSCode: https://code.visualstudio.com/download
