@@ -37,6 +37,7 @@ Note that all the website tags need to go inside the `<body>` tag
     * First, pick an image - one from your phone or computer would be great!
     * If your image has spaces in the name, you want to remove them
       e.g. `My Cool Image.jpg` -> `My-Cool-Image.jpg`
+    * Make a folder called `images` by right clicking in your root folder and selecting `New Folder`
     * Now we want to drop our image into the folder called `/images`
     * Now we can embed the image in the page using the `<img>` tag
       https://www.w3schools.com/tags/tag_img.asp
