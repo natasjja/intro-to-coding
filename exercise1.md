@@ -1,10 +1,17 @@
-# Exercise 1
+# Exercise 1: Intro to HTML
 
-We're going to add some new tags into our home page, `index.html`
+## Key Concepts
 
-Note that all the website tags need to go inside the `<body>` tag
+Before we get started, let's go over some basic concepts first:
+- *HTML* stands for Hypertext Markup Language. This is the language used to create Web pages for display in web browsers.
 
-### Steps
+## What we're going to do
+In this practical exercise, we will do the following:
+- Open the boilerplate files
+- Add new tags to the `index.html` page
+- Add an image to the page
+
+## Steps
 
 > Hint: Don't forget to save each time you make changes to a file!
 
@@ -22,14 +29,14 @@ Note that all the website tags need to go inside the `<body>` tag
 
 3.  Add new tags to the page
 
-    * Pop these anywhere inside the `<body>` tag.
-    * Enter a big heading on the page using the `<h1>` tag
+    * Pop these anywhere inside the `<body>` tag. *Note that all the website tags need to go inside the `<body>` tag.*
+    * Enter a big heading on the page using the `<h1>` tag. Example here:
       https://www.w3schools.com/tags/tag_hn.asp
-    * Add an unordered list using the `<ul>` tag.
+    * Add an unordered list using the `<ul>` tag. Example here: 
       https://www.w3schools.com/tags/tag_ul.asp
-    * Add some text into a `<p>` tag.
+    * Add some text into a `<p>` tag. Example here: 
       https://www.w3schools.com/tags/tag_p.asp
-    * Try a link to somewhere cool using the `<a>` tag
+    * Try a link to somewhere cool using the `<a>` tag. Example here: 
       https://www.w3schools.com/tags/tag_a.asp
 
 4.  Add an image to the page
@@ -39,9 +46,9 @@ Note that all the website tags need to go inside the `<body>` tag
       e.g. `My Cool Image.jpg` -> `My-Cool-Image.jpg`
     * Make a folder called `images` by right clicking in your root folder and selecting `New Folder`
     * Now we want to drop our image into the folder called `/images`
-    * Now we can embed the image in the page using the `<img>` tag
+    * Now we can embed the image in the page using the `<img>` tag. Example here:
       https://www.w3schools.com/tags/tag_img.asp
-    * Note that we need to use a relative path to the image because these files aren't hosted online anywhere yet
+    * Note that we need to use a relative path to the image because these files aren't hosted online anywhere yet. Example here:
       https://www.w3schools.com/html/html_filepaths.asp
 
 5. An extra to try
@@ -52,7 +59,27 @@ Note that all the website tags need to go inside the `<body>` tag
 
 > HINT: As you add tags into your code, make sure you keep refreshing the page in Chrome to see your changes come through.
 
-### Code reference
+## Code reference
 
 Here's an example of what your HTML code could look like when you've completed the steps above:
-https://gist.github.com/natasjja/3eb858ac8a86fc2bcdf31253faca1280
+
+```html
+<body>
+    <main>
+        <h1>Natasja Laurie</h1>
+        <img src="img/me.jpg">
+        <p>My name's Natasja and I'm an associate software engineer, music and food lover.</p>
+        <p>My favorite things are:</p>
+        <ul>
+          <li>Coding</li>
+          <li>Music</li>
+          <li>Good food</li>
+        </ul>
+        <nav>
+          <a href="http://www.linkedin.com">LinkedIn</a>|
+          <a href="http://www.instagram.com">Instagram</a>|
+          <a href="http://www.facebook.com">Facebook</a>
+        </nav>
+    </main>
+</body>
+```
