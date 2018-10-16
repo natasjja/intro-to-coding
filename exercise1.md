@@ -67,7 +67,7 @@ Here's an example of what your HTML code could look like when you've completed t
 <body>
     <main>
         <h1>Natasja Laurie</h1>
-        <img src="img/me.jpg">
+        <img src="images/me.png">
         <p>My name's Natasja and I'm an associate software engineer, music and food lover.</p>
         <p>My favorite things are:</p>
         <ul>
