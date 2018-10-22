@@ -1,8 +1,8 @@
 [![License](https://img.shields.io/badge/License-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-# Code Like A Girl: Intro to HTML and CSS Workshop
+# Intro to HTML and CSS Workshop
 
-In this repository are the activities for Code Like A Girl's Intro to HTML &amp; CSS workshop. 
+In this repository are the activities for the Intro to HTML &amp; CSS workshop. 
 
 ## Learning Objectives
 - What is the World Wide Web
