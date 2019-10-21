@@ -23,6 +23,7 @@ In this repository are the activities for the Intro to HTML &amp; CSS workshop.
   * Click the "HTML + CSS Boilerplate" button
   * Select the Downloaded ZIP folder from your downloads folder
   * Unzip it and work from inside this folder
+  * Move this unzipped folder to your desktop so it's in an easy-to-find location!
 
 ## Exercises
 
