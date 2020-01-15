@@ -15,9 +15,7 @@ In this repository are the activities for the Intro to HTML &amp; CSS workshop.
 ## Setting Up
 
 - Install VSCode: https://code.visualstudio.com/download (If you've installed Atom, skip this step!)
-- Download Google Chrome Browser: https://www.google.com/chrome/ 
-- Sign up for a free Netlify account: https://www.netlify.com/ (Optional - this is a free service to host your webpage!)
-
+- Download Google Chrome Browser: https://www.google.com/chrome/ (If you use Safari or Firefox, this is fine too)
 - Download the HTML/CSS Boilerplate
   * Go to this link: https://www.light-html.com 
   * Click the "HTML + CSS Boilerplate" button
