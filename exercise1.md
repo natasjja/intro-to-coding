@@ -29,7 +29,7 @@ In this practical exercise, we will do the following:
 
 3.  Add new tags to the page
 
-    * Pop these anywhere inside the `<body>` tag. *Note that all the website tags need to go inside the `<body>` tag.*
+    * Pop the new tags anywhere inside the `<body>` tag. *Note that all the website tags need to go inside the `<body>` tag.*
     * Enter a big heading on the page using the `<h1>` tag. Example here:
       https://www.w3schools.com/tags/tag_hn.asp
     * Add an unordered list using the `<ul>` tag. Example here: 
@@ -61,25 +61,28 @@ In this practical exercise, we will do the following:
 
 ## Code reference
 
-Here's an example of what your HTML code could look like when you've completed the steps above:
+Here's an example of what your HTML code might look like when you've completed the steps above:
 
 ```html
 <body>
     <main>
         <h1>Natasja Laurie</h1>
+       
         <img src="images/me.png">
+       
         <p>My name's Natasja and I'm an associate software engineer, music and food lover.</p>
+       
         <p>My favorite things are:</p>
         <ul>
           <li>Coding</li>
           <li>Music</li>
           <li>Good food</li>
         </ul>
-        <nav>
-          <a href="http://www.linkedin.com">LinkedIn</a>|
-          <a href="http://www.instagram.com">Instagram</a>|
-          <a href="http://www.facebook.com">Facebook</a>
-        </nav>
+       
+        <p>Some links:</p>
+        <a href="http://www.linkedin.com">LinkedIn</a>|
+        <a href="http://www.instagram.com">Instagram</a>|
+        <a href="http://www.facebook.com">Facebook</a>
     </main>
 </body>
 ```
