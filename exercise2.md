@@ -85,7 +85,6 @@ body {
 }
 
 main {
-    text-align: center;
     border: 3px solid rgb(242, 122, 150);
     background-color: white;
     max-width: 600px; 
