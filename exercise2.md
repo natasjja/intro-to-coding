@@ -21,7 +21,7 @@ In this practical exercise, we will do the following:
 
 2.  Wrap our content
 
-    * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `<body>`.
+    * Let's add a `<main>` tag around _all the elements_ we've already added inside our document `<body>` in our `index.html` file.
     * This makes it easier for us to layout our elements. Example here:
       https://www.w3schools.com/tags/tag_main.asp
 
@@ -81,24 +81,20 @@ Here's an example of what your CSS code could look like when you've completed th
 
 ```css
 body {
-    background-image: url(https://st2.depositphotos.com/4521519/10279/v/950/depositphotos_102798858-stock-illustration-seamless-pattern-with-cherry-tree.jpg);
-    background-size: cover;
+    background-color: pink;
 }
 
 main {
-    margin: 50px auto;
     text-align: center;
     border: 3px solid rgb(242, 122, 150);
     background-color: white;
-    max-width: 40%;
-    padding: 40px;
-    font-family: 'Roboto';
+    max-width: 600px; 
+    margin: auto;
 }
 
 h1 {
-    font-family: 'Pacifico';
     font-size: 50px;
-    color: rgb(242, 122, 150);
+    color: pink;
 }
 
 img {
